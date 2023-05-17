@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Slavska/goit-react/static/css/main.68b83466.css",
-    "main.js": "/Slavska/goit-react/static/js/main.d941166f.js",
-    "index.html": "/Slavska/goit-react/index.html",
-    "main.68b83466.css.map": "/Slavska/goit-react/static/css/main.68b83466.css.map",
-    "main.d941166f.js.map": "/Slavska/goit-react/static/js/main.d941166f.js.map"
+    "main.css": "/goit-react-hw-02-feedback/static/css/main.f72ad02a.css",
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.f6cdf716.js",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "main.f72ad02a.css.map": "/goit-react-hw-02-feedback/static/css/main.f72ad02a.css.map",
+    "main.f6cdf716.js.map": "/goit-react-hw-02-feedback/static/js/main.f6cdf716.js.map"
   },
   "entrypoints": [
-    "static/css/main.68b83466.css",
-    "static/js/main.d941166f.js"
+    "static/css/main.f72ad02a.css",
+    "static/js/main.f6cdf716.js"
   ]
 }
