@@ -13,3 +13,6 @@
 .btn_feedback:not(:last-child) {
   margin-right: 10px;
 }
+.btn_feedback:hover {
+  background-color: aquamarine;
+}
